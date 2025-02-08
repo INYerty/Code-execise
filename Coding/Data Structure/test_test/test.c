@@ -9,7 +9,6 @@ int sequential_search(int arr[], int size, int key) {
     }
     return -1; // 未找到
 }
-
 // 折半查找
 int binary_search(int arr[], int size, int key) {
     int low = 0, high = size - 1;
