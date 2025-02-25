@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "abc.exe",
+      "project": "Coding\\cpp\\abc.exe",
+      "projectTarget": ""
+    }
+  ]
+}
